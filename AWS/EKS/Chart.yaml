@@ -1,0 +1,8 @@
+apiVersion: v1
+appVersion: 1.7.2
+description: NGINX Ingress Controller
+keywords:
+- ingress
+- nginx
+name: nginx-ingress
+version: 1.0
